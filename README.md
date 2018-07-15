@@ -10,3 +10,10 @@ Clases *Cancion*, *Album* y *Playlist*.
 ### Creación de una Playlist en Java (II)
 
 Clases *Cancion*, *Album*, *Playlist* y *GestionPlaylist*.
+
+## Práctica Final
+### Comparativa de tecnologías MOM
+
+Comparativa de dos tecnologías de MOM para Java:\
+Java Message Service (JMS).\
+ZeroMQ.
