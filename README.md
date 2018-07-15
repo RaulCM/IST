@@ -6,3 +6,7 @@ Prácticas correspondientes a la asignatura de IST
 
 Clases *Cancion*, *Album* y *Playlist*.
 
+## Práctica 2
+### Creación de una Playlist en Java (II)
+
+Clases *Cancion*, *Album*, *Playlist* y *GestionPlaylist*.
